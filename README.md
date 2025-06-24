@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm xiaowuap 👋
 
-<!--
-**xiaowuap/xiaowuap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student passionate about bridging hardware and software.**  
+🔧 **Top Skills:** Hardware Design, Python Programming  
+🌐 **Website:** [xiaowuap.com](https://xiaowuap.com)  
+📧 **Email:** xiaowuap@outlook.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm an enthusiastic student with a deep interest in creating innovative solutions that combine the power of hardware and the versatility of Python. Whether it's tinkering with circuits or writing efficient code, I love building things that make a difference. My journey is driven by curiosity, creativity, and a passion for continuous learning.
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [xiaowuap.com](https://xiaowuap.com)
+- 📧 xiaowuap@outlook.com
+
+---
+
+*Always exploring, always building. Let’s connect and create something amazing together!*
